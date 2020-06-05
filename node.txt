@@ -1,4 +1,3 @@
-cs1.seattleu.edu 11082
-cs1.seattleu.edu 11083
 cs1.seattleu.edu 11084
-cs1.seattleu.edu 11076
+cs1.seattleu.edu 11082
+cs1.seattleu.edu 11081
